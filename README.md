@@ -1,6 +1,6 @@
 # Hi, I'm Asanshay 👋
 ### I'm a CS student at Stanford. 
-### I'm also a founder of Oxygen Planner, and a mentor and alum of FRC 1414 IHOT Robotics.
+### I'm also the founder of Oxygen Planner, and a mentor and alum of FRC 1414 IHOT Robotics.
 
 - 🕹️ I’m currently working on [MangoKart](https://github.com/cs107e/winter24-project-SuperAce100-ethanboneh), a 3D game and graphics engine built from pure scratch (bare metal) on the RISC-V powered Mango Pi.
 
