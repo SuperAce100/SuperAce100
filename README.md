@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **asanshay@stanford.edu**
 
-- 📄 See my resumé [here](Resume-7.pdf)
+- 📄 See my resumé [here](https://github.com/SuperAce100/SuperAce100/blob/ab8a64aa8ae5c2d64e1516a4fc9dc65d6161faab/Resume-9.pdf?raw=true)
 
 - 📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/asanshay/)
 
