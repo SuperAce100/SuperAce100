@@ -10,13 +10,11 @@
 
 - 🎥 Something else cool I've built lets me [add text to videos programmatically](https://github.com/SuperAce100/add-text)
 
-- 👨‍💻 All of my projects are available at [asanshay.com](asanshay.com)
-
 - 💬 Ask me about **robotics, design, or photography**
 
 - 📫 Reach me at **asanshay@stanford.edu**
 
-- 📄 See my resumé [here](asanshay.com/resume)
+- 📄 See my resumé [here](Resume-7.pdf)
 
 - 📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/asanshay/)
 
