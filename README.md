@@ -1,2 +1,2 @@
 # Hi, I'm Asanshay 👋
-### I'm a CS student at Stanford researching Self Improving AI Agents
+### I'm a CS student at Stanford researching self-improving AI agents
